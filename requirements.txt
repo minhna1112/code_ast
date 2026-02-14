@@ -2,4 +2,4 @@ tree_sitter==0.19.0
 requests==2.25.1
 GitPython==3.1.18
 tree-sitter-languages==1.10.2
-urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
